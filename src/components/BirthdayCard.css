@@ -1,0 +1,37 @@
+.birthday-card {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    color: rgb(195, 39, 65);
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    margin: 20px auto;
+    background-color: pink;
+    
+  }
+  
+  .card-body {
+    margin-bottom: 20px;
+  }
+  
+  .input-field {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+  }
+  
+  .sender-name {
+    font-weight: bold;
+    color: #773103;
+  }
+  img {
+    width: 200px; /* Set the width */
+    height: auto; /* Maintain aspect ratio */
+  }
+  .sender-name {
+    background-color: #cfc;
+    padding: 4px 8px;
+    border-radius: 5px;
+  }
